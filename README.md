@@ -1,2 +1,2 @@
 # Project-News-Talenthub
-# Membuat Blog unutk berita terkini
+Membuat Blog untuk berita terkini
